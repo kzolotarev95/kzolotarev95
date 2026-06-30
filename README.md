@@ -15,15 +15,31 @@
   <a href="https://kzolotarev95.developer.li/"><img src="https://img.shields.io/badge/Website-kzolotarev95.developer.li-ffb703?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=111827" alt="Website" /></a>
 </p>
 
-##  Tech Stack
+---
+
+## 👨‍💻 About Me
+
+Делаю инструменты для **OpenWrt**, **LuCI**, роутеров, VPN-сценариев, автоматизации, Telegram-интеграций и удобного управления сетевой инфраструктурой.
+
+```yaml
+Profile:
+  Location: Moscow
+  Focus: OpenWrt / LuCI / Router Automation
+  Stack: Python, Shell, JavaScript, CSS
+  Style: clean installers, practical tools, web panels
+```
+
+---
+
+## 🧰 Tech Stack
 
 ### Router / Network / OpenWrt
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" />
-  <img src="https://img.shields.io/badge/LuCI-111827?style=for-the-badge&logo=linux&logoColor=00e7ff" />
-  <img src="https://img.shields.io/badge/sing--box-0f172a?style=for-the-badge&logo=singlestore&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xray-1e293b?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPN%20Tools-2563eb?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
+  <img src="https://img.shields.io/badge/LuCI-111827?style=for-the-badge&logo=linux&logoColor=00e7ff" alt="LuCI" />
+  <img src="https://img.shields.io/badge/sing--box-0f172a?style=for-the-badge&logo=singlestore&logoColor=white" alt="sing-box" />
+  <img src="https://img.shields.io/badge/Xray-1e293b?style=for-the-badge&logo=databricks&logoColor=white" alt="Xray" />
+  <img src="https://img.shields.io/badge/VPN%20Tools-2563eb?style=for-the-badge&logo=wireguard&logoColor=white" alt="VPN Tools" />
 </p>
 
 ### Development
@@ -33,46 +49,67 @@
 
 ### Integrations / Automation
 <p align="center">
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS%20Automation-7c3aed?style=for-the-badge&logo=serverfault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse%20Proxy-0ea5e9?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backup%20%2F%20Restore-f59e0b?style=for-the-badge&logo=files&logoColor=black" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />
+  <img src="https://img.shields.io/badge/VPS%20Automation-7c3aed?style=for-the-badge&logo=serverfault&logoColor=white" alt="VPS Automation" />
+  <img src="https://img.shields.io/badge/Reverse%20Proxy-0ea5e9?style=for-the-badge&logo=nginx&logoColor=white" alt="Reverse Proxy" />
+  <img src="https://img.shields.io/badge/Backup%20%2F%20Restore-f59e0b?style=for-the-badge&logo=files&logoColor=black" alt="Backup Restore" />
 </p>
 
 ---
 
-##  GitHub Statistics
+## 📊 GitHub Statistics
+
+<!--
+ВАЖНО:
+Эти картинки НЕ берутся с github-readme-stats.vercel.app.
+Они генерируются GitHub Action в папку profile-summary-card-output.
+После добавления workflow открой Actions → GitHub Profile Summary Cards → Run workflow.
+-->
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kzolotarev95&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app?user=kzolotarev95&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <img width="98%" src="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzolotarev95&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repository" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
+  <img width="49%" src="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=kzolotarev95&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </p>
 
 ---
 
-##  Contribution Snake Animation
+## 🕹️ Pac-Man Contribution Graph
+
+<!--
+Это замена snake-анимации.
+После добавления pacman.yml открой Actions → Generate Pac-Man Contribution Graph → Run workflow.
+-->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kzolotarev95/kzolotarev95/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  [luci-app-sub-sync666](https://github.com/kzolotarev95/luci-app-sub-sync666)
+### 🔥 [luci-app-sub-sync666](https://github.com/kzolotarev95/luci-app-sub-sync666)
 **Podkop Sub v666 — подписки, мониторинг, xHTTP, HY2, URL Test и LuCI UI.**
 
 ```yaml
@@ -87,7 +124,7 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-###  [luci-app-owrt-remote](https://github.com/kzolotarev95/luci-app-owrt-remote)
+### 🌐 [luci-app-owrt-remote](https://github.com/kzolotarev95/luci-app-owrt-remote)
 **OpenWrt Remote Hub — удалённый доступ к OpenWrt через свой VPS.**
 
 ```yaml
@@ -104,7 +141,7 @@ Features:
 <tr>
 <td width="50%" valign="top">
 
-###  [luci-app-owrt-full-backup](https://github.com/kzolotarev95/luci-app-owrt-full-backup)
+### 💾 [luci-app-owrt-full-backup](https://github.com/kzolotarev95/luci-app-owrt-full-backup)
 **LuCI web-панель и SSH-утилита для полного бэкапа OpenWrt.**
 
 ```yaml
@@ -119,7 +156,7 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-###  [luci-app-max-tg-most](https://github.com/kzolotarev95/luci-app-max-tg-most)
+### 🔁 [luci-app-max-tg-most](https://github.com/kzolotarev95/luci-app-max-tg-most)
 **Мост сообщений между MAX и Telegram для OpenWrt.**
 
 ```yaml
@@ -136,7 +173,7 @@ Features:
 <tr>
 <td width="50%" valign="top">
 
-###  [luci-theme-protobyzks95](https://github.com/kzolotarev95/luci-theme-protobyzks95)
+### 🎨 [luci-theme-protobyzks95](https://github.com/kzolotarev95/luci-theme-protobyzks95)
 **Кастомная тема LuCI на базе Proton2025 с золотым интерфейсом.**
 
 ```yaml
@@ -151,7 +188,7 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-###  [podkop-telegram-agent](https://github.com/kzolotarev95/podkop-telegram-agent)
+### 🤖 [podkop-telegram-agent](https://github.com/kzolotarev95/podkop-telegram-agent)
 **Telegram-агент для управления Podkop, sing-box и OpenWrt.**
 
 ```yaml
@@ -169,12 +206,45 @@ Features:
 
 ---
 
+##  Current Focus
+
+```yaml
+2026_Goals:
+  - name: "OpenWrt / LuCI modules"
+    status: "Active"
+    description: "Панели, установщики и системные инструменты для роутеров"
+
+  - name: "Router automation"
+    status: "In Progress"
+    description: "Скрипты, диагностика, backup, restore и удалённое управление"
+
+  - name: "Telegram integrations"
+    status: "Continuous"
+    description: "Боты и мосты для управления сетевой инфраструктурой"
+
+  - name: "Clean UX for technical tools"
+    status: "Priority"
+    description: "Красивые LuCI-интерфейсы, понятные статусы и безопасная установка"
+```
+
+---
+
+##  Code Philosophy
+
+> Хороший инструмент — это когда пользователь понимает, что делать, даже без инструкции.
+
+> Скрипт должен не только ставить, но и проверять, чинить, объяснять и удаляться без следов.
+
+> OpenWrt может быть красивым, удобным и мощным одновременно.
+
+---
+
 ##  Let's Connect
 
 <p align="center">
-  <a href="https://github.com/kzolotarev95"><img src="https://img.shields.io/badge/GitHub-kzolotarev95-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://kzolotarev95.developer.li/"><img src="https://img.shields.io/badge/Website-developer.li-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20Source-OpenWrt%20%7C%20LuCI-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <a href="https://github.com/kzolotarev95"><img src="https://img.shields.io/badge/GitHub-kzolotarev95-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://kzolotarev95.developer.li/"><img src="https://img.shields.io/badge/Website-developer.li-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Open%20Source-OpenWrt%20%7C%20LuCI-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
 </p>
 
 <p align="center">
