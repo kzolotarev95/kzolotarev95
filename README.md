@@ -17,21 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
-
-Делаю инструменты для **OpenWrt**, **LuCI**, роутеров, VPN-сценариев, автоматизации, Telegram-интеграций и удобного управления сетевой инфраструктурой.
-
-```yaml
-Profile:
-  Location: Moscow
-  Focus: OpenWrt / LuCI / Router Automation
-  Stack: Python, Shell, JavaScript, CSS
-  Style: clean installers, practical tools, web panels
-```
-
----
-
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Router / Network / OpenWrt
 <p align="center">
@@ -57,7 +43,7 @@ Profile:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <!--
 ВАЖНО:
