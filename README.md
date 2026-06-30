@@ -1,22 +1,13 @@
-<!-- README.md для GitHub-профиля kzolotarev95 -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20&text=kzolotarev95&fontSize=58&fontAlignY=38&desc=OpenWrt%20%7C%20LuCI%20%7C%20Automation%20%7C%20Router%20Tools&descAlignY=58&animation=twinkling" alt="Header" />
+#  kzolotarev95
 
-<a href="https://github.com/kzolotarev95">
-  <img src="https://komarev.com/ghpvc/?username=kzolotarev95&label=Profile%20Views&color=gold&style=for-the-badge" alt="Profile Views" />
-</a>
-<a href="https://github.com/kzolotarev95?tab=followers">
-  <img src="https://img.shields.io/github/followers/kzolotarev95?label=Followers&style=for-the-badge&color=F7C844&labelColor=111827" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/kzolotarev95?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repos-6-F7C844?style=for-the-badge&labelColor=111827" alt="Public Repositories" />
-</a>
+### OpenWrt · LuCI · Router Automation · VPN Tools · Telegram Integrations
 
-<br/><br/>
+**Делаю практичные инструменты для роутеров, OpenWrt, VPS, удалённого доступа и автоматизации.**  
+Фокус: установка одной командой, понятный веб-интерфейс, диагностика, backup/restore и чистое удаление без мусора.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=800&color=F7C844&center=true&vCenter=true&width=900&lines=OpenWrt+%2F+LuCI+developer;Router+automation+and+VPN+tooling;Shell+%2B+Python+%2B+JavaScript+%2B+CSS;Clean+installers%2C+panels%2C+backups+and+bridges" alt="Typing SVG" />
+[Профиль](https://github.com/kzolotarev95) · [Репозитории](https://github.com/kzolotarev95?tab=repositories) · [OpenWrt Remote](https://github.com/kzolotarev95/luci-app-owrt-remote) · [Podkop Sub v666](https://github.com/kzolotarev95/luci-app-sub-sync666)
 
 </div>
 
@@ -24,213 +15,70 @@
 
 ##  About Me
 
-Делаю инструменты для **OpenWrt**, **LuCI**, роутеров, VPN-сценариев, автоматизации, Telegram-интеграций и удобного управления сетевой инфраструктурой.
-
-Основной фокус: чтобы сложные вещи ставились **одной командой**, имели понятный веб-интерфейс и нормально удалялись без мусора.
-
 ```yaml
 Profile:
   Location: Moscow
-  Focus: OpenWrt / LuCI / Router Automation
-  Stack: Python, Shell, JavaScript, CSS
-  Style: clean installers, practical tools, web panels
+  Main Focus: OpenWrt / LuCI / Router Automation
+  Stack: Shell, JavaScript, Python, CSS
+  Style: clean installers, practical tools, web panels, diagnostics
+  Goal: make router tools simple, reliable and beautiful
 ```
+
+Я делаю проекты вокруг **OpenWrt**, **LuCI**, **VPS**, **VPN-сценариев**, **Telegram-ботов** и сетевой автоматизации.  
+Главная идея — чтобы сложные вещи можно было поставить быстро, проверить понятно и удалить полностью.
 
 ---
 
 ##  Tech Stack
 
-<div align="center">
-
-### Router / Network / OpenWrt
-
-<img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" />
-<img src="https://img.shields.io/badge/LuCI-111827?style=for-the-badge&logo=linux&logoColor=F7C844" />
-<img src="https://img.shields.io/badge/VPN-0F172A?style=for-the-badge&logo=wireguard&logoColor=white" />
-<img src="https://img.shields.io/badge/Xray-1F2937?style=for-the-badge&logo=securityscorecard&logoColor=F7C844" />
-<img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=serverfault&logoColor=F7C844" />
-
-### Development
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-### Integrations
-
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/Bot%20API-111827?style=for-the-badge&logo=telegram&logoColor=F7C844" />
-<img src="https://img.shields.io/badge/GREEN--API-0F172A?style=for-the-badge&logo=whatsapp&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=F7C844" />
-
-</div>
+| Direction | Tools / Technologies |
+|---|---|
+| **OpenWrt / Router Tools** | OpenWrt, LuCI, UCI, rpcd, opkg, procd |
+| **Automation** | Shell, Bash, install scripts, uninstall scripts, health checks |
+| **Web / UI** | JavaScript, CSS, LuCI UI, CGI panels |
+| **Backend / VPS** | Python, systemd, nginx/Caddy-style reverse access, HTTPS flows |
+| **VPN / Network** | Xray, VLESS reverse, Podkop, sing-box, Hysteria2 / HY2 |
+| **Integrations** | Telegram Bot API, GREEN-API, MAX  Telegram bridge |
 
 ---
 
-## 📊 GitHub Statistics
+##  Featured Projects
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kzolotarev95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7C844&icon_color=F7C844&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kzolotarev95&theme=tokyonight&hide_border=true&background=0D1117&ring=F7C844&fire=F7C844&currStreakLabel=F7C844" alt="GitHub Streak" />
-
-<br/>
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzolotarev95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7C844&text_color=C9D1D9" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kzolotarev95&theme=github-compact&hide_border=true&bg_color=0D1117&color=F7C844&line=F7C844&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
+| Project | What it does | Stack |
+|---|---|---|
+| [**luci-app-sub-sync666**](https://github.com/kzolotarev95/luci-app-sub-sync666) | Podkop Sub v666: подписки, мониторинг, URL Test, xHTTP, HY2/Hysteria2 и LuCI UI | JavaScript, Shell, LuCI, OpenWrt |
+| [**luci-app-owrt-remote**](https://github.com/kzolotarev95/luci-app-owrt-remote) | OpenWrt Remote Hub: удалённый доступ к LuCI и SSH через свой VPS без открытия роутера наружу | Python, Shell, Xray, VPS |
+| [**luci-app-owrt-full-backup**](https://github.com/kzolotarev95/luci-app-owrt-full-backup) | Web-панель и SSH-утилита для полного backup/restore OpenWrt | Shell, LuCI, CGI |
+| [**luci-app-max-tg-most**](https://github.com/kzolotarev95/luci-app-max-tg-most) | Мост сообщений MAX  Telegram для OpenWrt, файлы, фото, видео, polling и live logs | Shell, LuCI, Telegram Bot API |
+| [**luci-theme-protobyzks95**](https://github.com/kzolotarev95/luci-theme-protobyzks95) | Кастомная золотая LuCI-тема на базе Proton2025 | CSS, JavaScript, LuCI Theme |
+| [**podkop-telegram-agent**](https://github.com/kzolotarev95/podkop-telegram-agent) | Telegram-агент для Podkop, sing-box, логов, диагностики, reboot и backup OpenWrt | Shell, Telegram Bot, OpenWrt |
 
 ---
 
-## ⭐ Featured Projects
-
-### 🔥 [luci-app-sub-sync666](https://github.com/kzolotarev95/luci-app-sub-sync666)
-**Podkop Sub v666 — подписки, мониторинг, xHTTP, HY2, URL Test и LuCI UI.**
+##  Main Focus
 
 ```yaml
-Tech Stack: JavaScript, LuCI, OpenWrt, Shell
-Features:
-  - обработка подписок
-  - URL Test и проверка серверов
-  - xHTTP / HY2 / Hysteria2
-  - интеграция в Services → Podkop
-  - retry installer / uninstaller
-  - чистое удаление без мусора
-```
+Current_Work:
+  OpenWrt_LuCI_Modules:
+    status: Active
+    description: Web panels, system tools, clean installers
 
-### 🛰 [luci-app-owrt-remote](https://github.com/kzolotarev95/luci-app-owrt-remote)
-**OpenWrt Remote Hub — удалённый доступ к OpenWrt через свой VPS.**
+  Router_Automation:
+    status: Active
+    description: diagnostics, backup, restore, remote control
 
-```yaml
-Tech Stack: Python, Shell, JavaScript, Xray, VPS, HTTPS
-Features:
-  - карточки роутеров Online / Offline
-  - LuCI через VPS
-  - SSH Web Terminal
-  - Xray Reverse
-  - HTTPS / firewall automation
-  - установка Hub и агента одной командой
-```
+  Telegram_Integrations:
+    status: Continuous
+    description: bots, bridges, logs, control from chat
 
-### 💾 [luci-app-owrt-full-backup](https://github.com/kzolotarev95/luci-app-owrt-full-backup)
-**LuCI web-панель и SSH-утилита для полного бэкапа OpenWrt.**
-
-```yaml
-Tech Stack: Shell, LuCI, OpenWrt, CGI
-Features:
-  - создание и скачивание архивов
-  - загрузка и восстановление бэкапов
-  - sysupgrade backup
-  - список пакетов opkg
-  - overlay / ROM snapshots
-  - работа без сборки .ipk
-```
-
-### 🌉 [luci-app-max-tg-most](https://github.com/kzolotarev95/luci-app-max-tg-most)
-**Мост сообщений между MAX и Telegram для OpenWrt.**
-
-```yaml
-Tech Stack: LuCI, OpenWrt, GREEN-API, Telegram Bot API
-Features:
-  - MAX → Telegram
-  - Telegram → MAX
-  - текст, фото, видео, файлы
-  - работа без белого IP
-  - polling для CG-NAT
-  - live-логи и backup / restore
-```
-
-### 🎨 [luci-theme-protobyzks95](https://github.com/kzolotarev95/luci-theme-protobyzks95)
-**Кастомная тема LuCI на базе Proton2025 с золотым интерфейсом.**
-
-```yaml
-Tech Stack: CSS, JavaScript, LuCI Theme
-Features:
-  - тёмный интерфейс Proton2025
-  - золотые акценты
-  - анимированное имя роутера
-  - кастомный логотип входа
-  - 3-цветные progressbar-индикаторы
-  - авто-сброс кэша после установки
-```
-
-### 🤖 [podkop-telegram-agent](https://github.com/kzolotarev95/podkop-telegram-agent)
-**Telegram-агент для управления Podkop, sing-box и OpenWrt.**
-
-```yaml
-Tech Stack: Shell, Telegram Bot, OpenWrt, Podkop
-Features:
-  - статус роутера, Podkop и sing-box
-  - просмотр логов из Telegram
-  - глобальная диагностика
-  - reboot и backup OpenWrt
-  - родительский контроль
-  - URLTest / VLESS управление
+  Clean_UX:
+    status: Priority
+    description: simple flows, readable statuses, safe uninstall
 ```
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kzolotarev95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📌 Pinned Repository Cards
-
-<div align="center">
-
-<a href="https://github.com/kzolotarev95/luci-app-sub-sync666">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzolotarev95&repo=luci-app-sub-sync666&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7C844&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/kzolotarev95/luci-app-owrt-remote">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzolotarev95&repo=luci-app-owrt-remote&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7C844&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/kzolotarev95/luci-app-owrt-full-backup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzolotarev95&repo=luci-app-owrt-full-backup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7C844&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/kzolotarev95/luci-theme-protobyzks95">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kzolotarev95&repo=luci-theme-protobyzks95&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7C844&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
-##  Current Focus
-
-```yaml
-2026_Goals:
-  - name: "OpenWrt / LuCI modules"
-    status: "Active"
-    description: "Удобные панели, установщики и системные инструменты для роутеров"
-
-  - name: "Router automation"
-    status: "In Progress"
-    description: "Скрипты, диагностика, backup, restore и удалённое управление"
-
-  - name: "Telegram integrations"
-    status: "Continuous"
-    description: "Боты и мосты для управления сетевой инфраструктурой"
-
-  - name: "Clean UX for technical tools"
-    status: "Priority"
-    description: "Красивые LuCI-интерфейсы, понятные статусы и безопасная установка"
-```
-
----
-
-##  Code Philosophy
+##  Project Philosophy
 
 > Хороший инструмент — это когда пользователь понимает, что делать, даже без инструкции.
 
@@ -240,31 +88,34 @@ Features:
 
 ---
 
-##  Let's Connect
+##  Recommended Pins
 
-<div align="center">
+Чтобы профиль выглядел ровно и профессионально, закрепи эти репозитории в таком порядке:
 
-<a href="https://github.com/kzolotarev95">
-  <img src="https://img.shields.io/badge/GitHub-kzolotarev95-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/kzolotarev95?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-OpenWrt%20%26%20LuCI-F7C844?style=for-the-badge&logo=openwrt&logoColor=111827&labelColor=111827" />
-</a>
+```text
+1. luci-app-sub-sync666
+2. luci-app-owrt-remote
+3. luci-app-owrt-full-backup
+4. luci-app-max-tg-most
+5. luci-theme-protobyzks95
+6. podkop-telegram-agent
+```
 
-<br/><br/>
+---
 
-**Open for collaboration on OpenWrt, LuCI, router automation, VPN tooling and Telegram integrations.**
+##  GitHub Profile Notes
 
-</div>
+Этот README специально сделан **без внешних динамических картинок**, потому что такие сервисы часто ломаются, тормозят или отдают ошибки.  
+Вместо этого здесь стабильная разметка GitHub Markdown: таблицы, ссылки, код-блоки, emoji и аккуратная структура.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" alt="Footer" />
+### Open for collaboration on OpenWrt, LuCI, router automation and Telegram integrations.
 
-**Made with  by kzolotarev95**
+**Star my repositories if they helped you **
 
- Star my repositories if you like them!
+Made with  by **kzolotarev95**
 
 </div>
