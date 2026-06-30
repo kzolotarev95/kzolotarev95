@@ -72,7 +72,7 @@
 
 ---
 
-## 🕹️ Pac-Man Contribution Graph
+##  Pac-Man Contribution Graph
 
 <!--
 Это замена snake-анимации.
@@ -89,13 +89,13 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 [luci-app-sub-sync666](https://github.com/kzolotarev95/luci-app-sub-sync666)
+###  [luci-app-sub-sync666](https://github.com/kzolotarev95/luci-app-sub-sync666)
 **Podkop Sub v666 — подписки, мониторинг, xHTTP, HY2, URL Test и LuCI UI.**
 
 ```yaml
@@ -110,7 +110,7 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [luci-app-owrt-remote](https://github.com/kzolotarev95/luci-app-owrt-remote)
+###  [luci-app-owrt-remote](https://github.com/kzolotarev95/luci-app-owrt-remote)
 **OpenWrt Remote Hub — удалённый доступ к OpenWrt через свой VPS.**
 
 ```yaml
@@ -127,7 +127,7 @@ Features:
 <tr>
 <td width="50%" valign="top">
 
-### 💾 [luci-app-owrt-full-backup](https://github.com/kzolotarev95/luci-app-owrt-full-backup)
+###  [luci-app-owrt-full-backup](https://github.com/kzolotarev95/luci-app-owrt-full-backup)
 **LuCI web-панель и SSH-утилита для полного бэкапа OpenWrt.**
 
 ```yaml
@@ -142,7 +142,7 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-### 🔁 [luci-app-max-tg-most](https://github.com/kzolotarev95/luci-app-max-tg-most)
+###  [luci-app-max-tg-most](https://github.com/kzolotarev95/luci-app-max-tg-most)
 **Мост сообщений между MAX и Telegram для OpenWrt.**
 
 ```yaml
@@ -159,7 +159,7 @@ Features:
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [luci-theme-protobyzks95](https://github.com/kzolotarev95/luci-theme-protobyzks95)
+###  [luci-theme-protobyzks95](https://github.com/kzolotarev95/luci-theme-protobyzks95)
 **Кастомная тема LuCI на базе Proton2025 с золотым интерфейсом.**
 
 ```yaml
@@ -174,7 +174,7 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [podkop-telegram-agent](https://github.com/kzolotarev95/podkop-telegram-agent)
+###  [podkop-telegram-agent](https://github.com/kzolotarev95/podkop-telegram-agent)
 **Telegram-агент для управления Podkop, sing-box и OpenWrt.**
 
 ```yaml
@@ -189,39 +189,6 @@ Features:
 </td>
 </tr>
 </table>
-
----
-
-##  Current Focus
-
-```yaml
-2026_Goals:
-  - name: "OpenWrt / LuCI modules"
-    status: "Active"
-    description: "Панели, установщики и системные инструменты для роутеров"
-
-  - name: "Router automation"
-    status: "In Progress"
-    description: "Скрипты, диагностика, backup, restore и удалённое управление"
-
-  - name: "Telegram integrations"
-    status: "Continuous"
-    description: "Боты и мосты для управления сетевой инфраструктурой"
-
-  - name: "Clean UX for technical tools"
-    status: "Priority"
-    description: "Красивые LuCI-интерфейсы, понятные статусы и безопасная установка"
-```
-
----
-
-##  Code Philosophy
-
-> Хороший инструмент — это когда пользователь понимает, что делать, даже без инструкции.
-
-> Скрипт должен не только ставить, но и проверять, чинить, объяснять и удаляться без следов.
-
-> OpenWrt может быть красивым, удобным и мощным одновременно.
 
 ---
 
